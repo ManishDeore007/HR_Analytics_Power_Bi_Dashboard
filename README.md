@@ -1,12 +1,12 @@
-# Project Title (H1)
+# Project Title
 **Develope an interactive HR Analytics Dashboard in Power BI to analyze key workforce metrics and uncover attrition trends within the organization.**
 
 **Projet Desciption:**
 The project focused on major KPIs including:
-1. overall attrition rate
-2. attrition by gender
-3. education field and job role
-4. average employee age distribution.
+1. Overall attrition rate
+2. Attrition by gender
+3. Education field and job role
+4. Average employee age distribution.
 
 **Processes followed:**
 Executed comprehensive data preparation involving dataset import, data cleaning, column standardization, table merging, and null value management to ensure data accuracy and reliability.
