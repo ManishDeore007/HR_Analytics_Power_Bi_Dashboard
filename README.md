@@ -1,5 +1,5 @@
 # Project Title
-###Develope an interactive HR Analytics Dashboard in Power BI to analyze key workforce metrics and uncover attrition trends within the organization.
+**Develope an interactive HR Analytics Dashboard in Power BI to analyze key workforce metrics and uncover attrition trends within the organization.**
 
 **Projet Desciption:**
 The project focused on major KPIs including:
